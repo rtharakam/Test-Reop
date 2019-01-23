@@ -1,1 +1,48 @@
-A:''
+{
+      "adjustments": [
+         {
+            "index": 0,
+            "name": "Gamma",
+            "value": 2.5,
+            "defaultValue": 1,
+            "min": 0,
+            "max": 3.5,
+            "isDecimal": true
+         },
+         {
+            "index": 1,
+            "name": "Brightness",
+            "value": 0
+         },
+         {
+            "index": 2,
+            "name": "Contrast",
+            "value": 0
+         },
+         {
+            "index": 3,
+            "name": "Sharpen",
+            "value": false,
+            "toggleBtn": true
+         },
+         {
+            "index": 3,
+            "name": "Red",
+            "value": 0,
+            "rgb": "#FF0000"
+         },
+         {
+            "index": 4,
+            "name": "Green",
+            "value": 0,
+            "rgb": "#00FF00"
+         },
+         {
+            "index": 5,
+            "name": "Blue",
+            "value": -71,
+            "rgb": "#0000FF"
+         }
+      ],
+      "rotation": null
+   }
